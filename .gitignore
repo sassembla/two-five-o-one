@@ -25,3 +25,5 @@ UnityBinding/Library/*
 
 UnityBinding/Assets/SublimeSocketAsset/*
 
+
+Server/pcre-8.36/.deps/*
