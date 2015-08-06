@@ -5,7 +5,7 @@ relver=0
 version=${majver}.${minver}.${relver}-alpha
 abiver=5.1
 
-prefix=/Users/illusionismine/Desktop/two-five-o-one/Server/luajit-2.1
+prefix=/Users/runnershigh/Desktop/two-five-o-one/Server/luajit-2.1
 multilib=lib
 exec_prefix=${prefix}
 libdir=${exec_prefix}/${multilib}
